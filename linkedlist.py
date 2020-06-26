@@ -84,4 +84,4 @@ if __name__ == '__main__':
     ll.delete(1998)
     print(ll)           # printing the linked list after deleting an element
     ll.reverse()
-    print(ll)           # printing the linked list after reversing the linked list
+    print(ll)           # printing the reversed linked list
