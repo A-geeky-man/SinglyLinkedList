@@ -1,2 +1,2 @@
 # SinglyLinkedList
-Python - Singly Linked list operations
+Python code for Singly Linked list operations
